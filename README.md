@@ -5,6 +5,7 @@
 **Zero-dependency Swift 6 toolkit for sub-12ms on-device Core ML & Vision inference with drop-in SwiftUI overlays and live Apple Neural Engine (ANE) telemetry.**
 
 [![Swift 6.0](https://img.shields.io/badge/Swift-6.0-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org)
+[![Swift CI](https://github.com/Vishal-iOS-Labs/SwiftVisionML/actions/workflows/swift.yml/badge.svg)](https://github.com/Vishal-iOS-Labs/SwiftVisionML/actions/workflows/swift.yml)
 [![Platforms](https://img.shields.io/badge/Platforms-iOS%2017%2B%20%7C%20macOS%2014%2B%20%7C%20visionOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://developer.apple.com)
 [![SPM Compatible](https://img.shields.io/badge/SPM-Compatible-0A84FF?style=for-the-badge&logo=xcode&logoColor=white)](https://swift.org/package-manager/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-34C759?style=for-the-badge)](LICENSE)
